@@ -7,6 +7,8 @@
 
 
 ##### How to install:
+`git clone https://github.com/JesusDR01/Docker_LAMP_Boilerplate.git`
+
 
 `docker compose up -d`
 
