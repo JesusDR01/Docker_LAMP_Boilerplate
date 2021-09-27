@@ -1,15 +1,18 @@
 ### Docker LAMP Boilerplate
-#### Sustituye a xampp de forma fácil
 
-##### Requesitos:
+#### Replace xampp easily
+
+##### Requirements:
 [Docker](https://docs.docker.com/engine/install/) 
 
 
-##### Instalación:
+##### How to install:
 
 `docker compose up -d`
 
-##### Ver en la web
+##### How to use:
+
+
 `http://localhost:8080` => PhpMyAdmin
 
 
