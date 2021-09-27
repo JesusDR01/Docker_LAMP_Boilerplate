@@ -10,6 +10,9 @@
 `git clone https://github.com/JesusDR01/Docker_LAMP_Boilerplate.git`
 
 
+`cd ./Docker_LAMP_Boilerplate`
+
+
 `docker compose up -d`
 
 ##### How to use:

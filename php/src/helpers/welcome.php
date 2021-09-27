@@ -9,7 +9,7 @@ function welcome($conn)
         print('<h1>Go to http://localhost:8080</h1>');
         print('<p>User: MYSQL_USER </p>');
         print('<p>password: MYSQL_PASSWORD </p>');
-        print('<h2>Open table users and paste:</h2>');
+        print('<h2>Open MYSQL_DATABASE => console and paste:</h2>');
         print('<pre>drop table if exists `users`;
         create table `users` (
             id int not null auto_increment,
