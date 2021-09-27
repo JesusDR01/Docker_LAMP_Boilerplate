@@ -19,3 +19,5 @@
 
 
 `http://localhost:8000` => Website
+
+###### remember to use `docker compose down` after finishing your development!
